@@ -83,3 +83,8 @@ print(a is b) #참 거짓을 확인 한다.
 영어=75
 수학=55
 print(국어+영어+수학/3)
+
+
+list=[1,2,3]
+list[1] = ['a','b']
+print(list)
